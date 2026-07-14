@@ -1,0 +1,11 @@
+Insight,Value
+Total Loans,31679
+Default Rate,21.54%
+Average Borrower Age,27.7
+Average Loan Amount,"$9,660"
+Highest Risk Home Ownership,RENT (31.1% Default Rate)
+Highest Risk Loan Purpose,Debt Consolidation (28.4% Default Rate)
+Previous Default Risk,37.6% Default Rate
+Most Important Risk Factor,Loan-to-Income Ratio (31.7% Feature Importance)
+Recommended Machine Learning Model,Random Forest
+Best Model ROC AUC,0.9129
